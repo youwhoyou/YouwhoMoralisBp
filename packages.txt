@@ -1,0 +1,4 @@
+react-native-svg metro-react-native-babel-preset react-native-dotenv react-native-reanimated react-native-gesture-handler moralis@0.0.99 react-moralis@0.2.7 @react-navigation/bottom-tabs @react-navigation/native @react-navigation/native-stack @react-navigation/stack @react-native-async-storage/async-storage redux @reduxjs/toolkit react-redux react-native-toast-message react-native-crypto @tradle/react-native-http https-browserify react-native-os readable-stream stream-browserify path-browserify node-libs-browser rn-nodeify react-native-screens react-native-safe-area-context readable-stream 
+
+dev
+lint-staged typescript ts-node react-native-svg-transformer prettier react-native-codegen platform-detect husky eslint-plugin-react-native eslint-plugin-react eslint-plugin-import eslint-plugin-functional eslint-plugin-eslint-comments eslint-config-prettier dotenv commitizen babel-plugin-module-resolver
